@@ -2,7 +2,7 @@
 
 uses the thread by Bitmap (ROFL) [https://latindiscussion.org/threads/stylistic-devices.32288/#post-440640](url) 
 
-check it out here: [latin-style-analyzer.streamlit.app](url)
+check it from the link in the about!
 
 run on local machine 
 - install python
